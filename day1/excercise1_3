@@ -1,3 +1,0 @@
-#print the length of the input
-name = input("Enter your name and I will tell you how long it is: ")
-print(len(name))
